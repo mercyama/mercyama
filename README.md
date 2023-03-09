@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Mercy Ezihe - amacodes 🐱‍💻
 
-<!--
+<!--   
 **mercyama/mercyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/her 
+- 🌱 I’m currently learning JavaScript and C
+- ⚡ I am open to open source project and hackathons
+- 😊 Fun fact: I am currently studing at alx_africa School of Software Engineering Class of 2023 and Alabian solution.
+- 📫 How to reach me: mercyezihe2@gmail.com
+
+
+
 -->
